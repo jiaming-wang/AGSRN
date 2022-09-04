@@ -2,6 +2,7 @@
 From Artifact Removal to Super-Resolution
 
 If you find this work useful, please consider citing it.
+```
 @article{wang2022artifact,
   title={From Artifact Removal to Super-Resolution},
   author={Wang, Jiaming and Shao, Zhenfeng and Huang, Xiao and Lu, Tao and Zhang, Ruiqian and Li, Yong},
@@ -9,3 +10,4 @@ If you find this work useful, please consider citing it.
   year={2022},
   publisher={IEEE}
 }
+```
